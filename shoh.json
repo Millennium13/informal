@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "first_name": "Antony",
+      "last_name": "Martia",
+      "email": "antony@yahoo.com",
+      "id": 2
+    },
+    {
+      "first_name": "Robert121",
+      "last_name": "31352",
+      "email": "bobbrown432@yahoo.com25",
+      "id": 4
+    },
+    {
+      "id": 6,
+      "first_name": "Artur",
+      "last_name": "Neck",
+      "email": "artur@yahoo.com"
+    },
+    {
+      "id": 7,
+      "first_name": "David",
+      "last_name": "Beckham",
+      "email": "david@yahoo.com"
+    },
+    {
+      "first_name": "Igor",
+      "last_name": "Sergeev",
+      "email": "igor@yahoo.com",
+      "id": 8
+    },
+    {
+      "first_name": "Akbarjon",
+      "last_name": "Mamadaliyev",
+      "email": "akbarjon777@gmail.com",
+      "id": 9
+    },
+    {
+      "first_name": "Fayzullo",
+      "last_name": "Habibullayev",
+      "email": "fayzullo@yahoo.com",
+      "id": 10
+    },
+    {
+      "first_name": "Akbarjon",
+      "last_name": "Mamadaliyev",
+      "email": "akbarjon777@gmail.com",
+      "id": 11
+    }
+  ]
+}
